@@ -1,0 +1,137 @@
+html, body{
+	background: #8A1C7C;
+	font-family: Arial;
+	font-size: 16px;
+	
+}
+.clear {clear: both;}
+#randomname{
+	width: 90%;
+	max-width: 1000px;
+	background: #81B8EF;
+	margin: 30px auto;
+}
+.mainDetails{
+	float: auto;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1px solid #04030f;
+}
+#name{
+	float: auto;
+}
+#contactDetailsInfo{
+	float: right;
+	width: 60%;
+}
+
+#mainContent{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+.mainHeaders{
+	float: left;
+	width: 25%;
+}
+.mainHeaders img{
+	padding: auto;
+	width:80%;
+	
+}
+.mainContents{
+	float: right;
+	width: 75%;
+}
+.mainContents1{
+	float: right;
+	width: 75%;
+	
+}
+.mainImg{
+	width: 90%;
+	border-bottom: 1px solid #04030f;
+}
+.articleGrouping{
+	border: 1px solid #04030f;
+}
+.Learning{
+	width: 90%;
+}
+.Project{
+	width: 90%;
+	border-bottom: 1px solid #04030f;
+}
+.Project1{
+	width: 90%;
+}
+#personalityImg{
+	padding: auto;
+	margin-left: 200px;
+	
+}
+#LearningStyles img {
+	padding: auto;
+	width:100%;
+	
+}
+#NerdImg img{
+	padding: auto;
+	width:100%;
+	
+}
+
+ul{
+	font-family: Arial;
+	color: #103456;
+}
+h1{
+	font-family: Arial;
+	font-size: 3em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	margin: 10px auto;
+}
+h2{
+	font-family: Arial;
+	font-size: 2em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	display: inline-block;
+}
+h3{
+	font-family: Arial;
+	font-size: 2em;
+	color: #04030f;
+	border-bottom: 1px solid #04030f;
+}
+h4{
+	font-family: Arial;
+	color: #04030f;
+}
+p{
+	font-family: Arial;
+	color: #103456;
+}
+
+h5{
+	font-family: Arial;
+	font-size: 3em;
+	color: #04030f;
+	border-bottom: 1px solid #04030f;
+	float: left;
+	margin-left: 40%;
+}
+.button {
+	width: 100%;
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
