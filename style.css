@@ -1,5 +1,5 @@
 html, body{
-	background: #8A1C7C;
+	background: #010E14;
 	font-family: Arial;
 	font-size: 16px;
 	
@@ -8,7 +8,7 @@ html, body{
 #randomname{
 	width: 90%;
 	max-width: 1000px;
-	background: #81B8EF;
+	background: #81A4CD;
 	margin: 30px auto;
 }
 .mainDetails{
@@ -112,7 +112,7 @@ h4{
 }
 p{
 	font-family: Arial;
-	color: #103456;
+	color: #F5FBEF;
 }
 
 h5{
@@ -121,17 +121,9 @@ h5{
 	color: #04030f;
 	border-bottom: 1px solid #04030f;
 	float: left;
-	margin-left: 40%;
+	margin-left: 26%;
 }
-.button {
-	width: 100%;
-  font: bold 11px Arial;
-  text-decoration: none;
-  background-color: #EEEEEE;
-  color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
+.mobile-button {
+	width: 80%;
+	float: left;
 }
