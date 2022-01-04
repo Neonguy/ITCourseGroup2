@@ -24,6 +24,20 @@ html, body{
 	
 	border-bottom: 1px solid #04030f;
 }
+.bottomSection{
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	width: 90%;
+	max-width: 1000px;
+	
+	border: 1px solid #04030f;
+}
+.spacer{
+	padding: 5;
+	
+}
 .subheader{
 	padding-top: 10px;
 }
@@ -41,20 +55,23 @@ html, body{
 	margin: 10px auto;
 	border: 1px solid #04030f;
 }
-.mainHeaders{
+#mainContent embed{
+	width: 100%;
+}
+.LeftSideHeader{
 	float: left;
 	width: 25%;
 }
-.mainHeaders img{
+.LeftSideHeader img{
 	padding: auto;
 	width:80%;
 	
 }
-.mainContents{
+.mainContentsRight{
 	float: right;
 	width: 75%;
 }
-.mainContents1{
+.mainContentsRight1{
 	float: right;
 	width: 75%;
 	
@@ -75,21 +92,6 @@ html, body{
 }
 .Project1{
 	width: 90%;
-}
-#personalityImg{
-	padding: auto;
-	margin-left: 200px;
-	
-}
-#LearningStyles img {
-	padding: auto;
-	width:100%;
-	
-}
-#NerdImg img{
-	padding: auto;
-	width:100%;
-	
 }
 
 ul{
@@ -121,6 +123,12 @@ h3{
 h4{
 	font-family: Arial;
 	color: #04030f;
+}
+h4a{
+	font-family: Arial;
+	color: #04030f;
+	padding: 0px;
+	margin: 0px;
 }
 p{
 	font-family: Arial;
