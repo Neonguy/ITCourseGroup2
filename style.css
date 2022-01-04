@@ -62,6 +62,22 @@ html, body{
 	float: left;
 	width: 25%;
 }
+.LeftSideHeader h4{
+	padding-left: 50px;
+	margin: 0px;
+	display: inline-block;
+}
+.LeftSideHeader p{
+	padding-left: 60px;
+	margin: 0px;
+	display: inline-block;
+}
+.LeftSideid{
+	float: left;
+	width: 20%;
+	padding: auto;
+	margin: auto;
+}
 .LeftSideHeader img{
 	padding: auto;
 	width:80%;
@@ -128,6 +144,12 @@ h4a{
 	font-family: Arial;
 	color: #04030f;
 	padding: 0px;
+	margin: 0px;
+}
+h4b{
+	font-family: Arial;
+	color: #04030f;
+	padding-left: 20px;
 	margin: 0px;
 }
 p{
